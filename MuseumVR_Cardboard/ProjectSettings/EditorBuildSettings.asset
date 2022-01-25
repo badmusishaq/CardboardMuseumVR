@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/CardboardHelpers/Demo/CardboardInteractableDemo.unity
+    guid: b8fa09889c5224b47a250cdf70333fac
+  - enabled: 1
+    path: Assets/Scenes/Museum.unity
+    guid: 4eb23464fa6632541b64aede1f7537c4
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 711246eb8243d9344b40e166269dbee0,
+      type: 2}
